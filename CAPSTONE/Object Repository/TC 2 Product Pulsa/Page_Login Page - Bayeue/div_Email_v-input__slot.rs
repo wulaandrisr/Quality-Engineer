@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Email_v-input__slot</name>
+   <tag></tag>
+   <elementGuidId>30f7d9b5-08af-4c02-b57a-7505826c013b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-input__slot</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/form/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e25d3232-386a-402a-b7cd-a7f21fb75d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input__slot</value>
+      <webElementGuid>20dd1cd4-6cde-4103-8dcd-e9729663e4ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;row form__login align-center justify-center&quot;]/div[@class=&quot;col-md-7 col-lg-7 col-xl-8 col-12&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-md-6 col-10&quot;]/form[1]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--single-line v-text-field--solo v-text-field--is-booted v-text-field--enclosed v-text-field--placeholder primary--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]</value>
+      <webElementGuid>c84739d8-4885-4f96-ba94-d5c3b2fec1e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/form/div[2]/div/div</value>
+      <webElementGuid>17116ecc-13a5-4061-b3b2-267d78eacfa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[3]</value>
+      <webElementGuid>c4ff23f6-70a9-498c-bbff-a901deee5929</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/following::div[4]</value>
+      <webElementGuid>4927b24b-114b-416a-baad-6ac4fe479e14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[5]</value>
+      <webElementGuid>7d6bc514-4121-4cb5-8db6-64ab40dbf0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::div[15]</value>
+      <webElementGuid>e3acada8-94ad-407e-8fcf-b6d8dc728028</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div/div</value>
+      <webElementGuid>a3b42a3f-3ded-40cd-8047-8631c2e6ae9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

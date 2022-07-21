@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/TC Product 1/Page_Login Page - Bayeue/span_Login",
+      "brokenLocator": "//div[@id\u003d\u0027app\u0027]/div/div/div[2]/div/div/form/button/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/TC Product 1/Page_Login Page - Bayeue/span_Login_position.png"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Categories_v-responsive__content</name>
+   <tag></tag>
+   <elementGuidId>d1e81d85-63d8-4486-9f2e-8057fa0c03cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.col.align-self-center > div.v-image.v-responsive.theme--light > div.v-responsive__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[3]/div/div/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4831dc1c-a14a-4b71-935b-d23cdacfddd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-responsive__content</value>
+      <webElementGuid>9f01726a-a0af-48ca-888d-0dc5c56f4b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;d-flex child-flex col-sm-3 col-md-2 col-lg-2 col-xl-2 col-6&quot;]/div[@class=&quot;v-card v-card--link v-sheet theme--light light d-flex align-center flat card&quot;]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;col align-self-center&quot;]/div[@class=&quot;v-image v-responsive theme--light&quot;]/div[@class=&quot;v-responsive__content&quot;]</value>
+      <webElementGuid>00aeb739-e494-4086-9f4a-2139d8b564cb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[3]/div/div/div/div/div/div[3]</value>
+      <webElementGuid>c36ed45b-cc1e-42cf-ab18-a0af2c8f8f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]</value>
+      <webElementGuid>dc11f74a-042b-4732-82f3-b535928f688e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

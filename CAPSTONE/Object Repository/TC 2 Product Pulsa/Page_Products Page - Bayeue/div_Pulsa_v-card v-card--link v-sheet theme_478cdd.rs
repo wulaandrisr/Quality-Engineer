@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pulsa_v-card v-card--link v-sheet theme_478cdd</name>
+   <tag></tag>
+   <elementGuidId>81e23600-0a1e-44c1-aec8-2aa879278887</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div[4]/div/div/div/div/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0f3aa30d-151c-41b7-a310-115ace2cf93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>bf476d76-4925-42dd-b1da-8901136af2f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-card v-card--link v-sheet theme--light light d-flex align-center flat card</value>
+      <webElementGuid>e45b2da2-e69e-4269-8556-1f2993ad59ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;d-flex child-flex col&quot;]/div[@class=&quot;v-card v-sheet theme--light light align-center flat card&quot;]/div[@class=&quot;row row--dense&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-3 col-md-2 col-lg-1 col-xl-1 col-4&quot;]/div[@class=&quot;v-card v-card--link v-sheet theme--light light d-flex align-center flat card&quot;]</value>
+      <webElementGuid>7b7a417f-d616-4094-b1a6-41b66de66cb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div[4]/div/div/div/div/div/div[4]/div</value>
+      <webElementGuid>dc7321a9-c200-4056-8fdd-63bd3517b1ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulsa'])[2]/following::div[29]</value>
+      <webElementGuid>55d93407-a55d-4803-8894-23879940baf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test'])[1]/following::div[36]</value>
+      <webElementGuid>fbb3946c-12dd-41be-a745-2ff97297e9df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detail'])[1]/preceding::div[12]</value>
+      <webElementGuid>795c9ddc-ec4c-4465-91a6-0aa8d6a00b46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[4]/div</value>
+      <webElementGuid>55a42c13-fc27-4f26-9a45-194d101bd4fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

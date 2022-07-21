@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Login</name>
+   <tag></tag>
+   <elementGuidId>2ce1c431-0276-4f75-b592-a7d2daaca193</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.v-btn__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/form/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a03a855b-fbbb-42d9-b7f4-55520d9aec3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-btn__content</value>
+      <webElementGuid>1e76f2e6-77f6-4f04-aa92-548d8265fd32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            Login
+          </value>
+      <webElementGuid>2f5b838b-acf5-40a8-943f-f96860851a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;row form__login align-center justify-center&quot;]/div[@class=&quot;col-md-7 col-lg-7 col-xl-8 col-12&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-md-6 col-10&quot;]/form[1]/button[@class=&quot;v-btn v-btn--block v-btn--is-elevated v-btn--has-bg theme--dark v-size--large&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>3fdc5b74-371a-42c3-ab2c-83491a259cab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/form/button/span</value>
+      <webElementGuid>0655735f-909c-409c-96ec-7670e5c10cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>278c9f73-83fd-4635-8db3-978dd7fde6d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
+      <webElementGuid>fa5ad0d8-80b8-4a8d-8bb8-14bc7db33a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span</value>
+      <webElementGuid>77041aab-4f1b-4237-bc99-0ad1922d0dd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+            Login
+          ' or . = '
+            Login
+          ')]</value>
+      <webElementGuid>57508e22-044c-4baf-9f73-f8d9a594951c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

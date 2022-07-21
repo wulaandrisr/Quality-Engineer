@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Pulsa Telkomsel 100rb</name>
+   <tag></tag>
+   <elementGuidId>2b0ade77-4a3f-45cc-ae31-2227b4987ad5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/ul[4]/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>7e0cabcd-8a20-4f6b-8e73-7afdc50ef63c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pulsa Telkomsel 100rb</value>
+      <webElementGuid>0b3e3cc4-6a12-4195-bc52-098c3c773f8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/ul[4]/li[2]</value>
+      <webElementGuid>43009914-7087-47ac-80ef-294e9d20ee9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/ul[4]/li[2]</value>
+      <webElementGuid>b7351cce-e3a1-4809-8034-70ecfb4b62e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pulsa-telkomsel'])[4]/following::li[1]</value>
+      <webElementGuid>41dc5686-a41a-45a7-a7c8-f669cd1e73f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pulsa Telkomsel 70rb'])[1]/following::li[2]</value>
+      <webElementGuid>8e118e80-7f4b-4e5f-acfc-83678c4d6b85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='success get details product!'])[1]/preceding::li[1]</value>
+      <webElementGuid>37fa30f1-3e84-4744-a19c-7e6741e396b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pulsa Telkomsel 100rb']/parent::*</value>
+      <webElementGuid>0804db14-c15b-4f08-a153-338aa4f2574d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[4]/li[2]</value>
+      <webElementGuid>bbf2760c-cf54-4a22-bf93-6c20fddbdf67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Pulsa Telkomsel 100rb' or . = 'Pulsa Telkomsel 100rb')]</value>
+      <webElementGuid>f965277b-bf6c-4fc9-ac0d-27301898fb57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

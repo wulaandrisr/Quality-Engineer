@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Products</name>
+   <tag></tag>
+   <elementGuidId>b92eda60-f271-4a91-a452-fd25623949aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[2]/nav/div/div/div/div[2]/a[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fdb23fd1-2c20-44b0-857f-19067fcddf82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-list-item__content</value>
+      <webElementGuid>0ab3a4ed-0f1c-4264-aab2-f8ee064fbca9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                  Products
+                </value>
+      <webElementGuid>16c416ca-e1fd-42a0-8886-06dec085d7ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--is-mobile v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;layout column justify-center justify-space-between fill-height&quot;]/div[1]/div[@class=&quot;v-list v-sheet theme--light v-list--nav&quot;]/a[@class=&quot;v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]</value>
+      <webElementGuid>60f953bc-c3e8-4019-a5cd-ab435ac33584</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[2]/nav/div/div/div/div[2]/a[2]/div</value>
+      <webElementGuid>5de547bc-9bd3-4b79-8cf5-10c740dbc2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Overview'])[1]/following::div[1]</value>
+      <webElementGuid>b3edaa9e-05f5-47b5-b0dd-4b3ed81c4a20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transactions'])[1]/preceding::div[3]</value>
+      <webElementGuid>8f72bdde-fef3-429d-a518-b9bc808dad7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div</value>
+      <webElementGuid>5e816a55-e93d-4963-9d99-0131d2d13d83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                  Products
+                ' or . = '
+                  Products
+                ')]</value>
+      <webElementGuid>c8ab5a10-d7b4-47b9-ad87-2a44c5495854</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

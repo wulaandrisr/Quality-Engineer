@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Password_v-input__slot</name>
+   <tag></tag>
+   <elementGuidId>95f6bdd8-456b-452d-8e87-c8a7c45fc896</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-input.v-input--is-focused.theme--light.v-text-field.v-text-field--single-line.v-text-field--solo.v-text-field--is-booted.v-text-field--enclosed.v-text-field--placeholder.primary--text > div.v-input__control > div.v-input__slot</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[2]/div/div/form/div[4]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4dc9b085-26a4-480d-9fb5-4fd206fd4a5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input__slot</value>
+      <webElementGuid>e7009c31-61f0-4614-b8cc-dead102ddb7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;row form__login align-center justify-center&quot;]/div[@class=&quot;col-md-7 col-lg-7 col-xl-8 col-12&quot;]/div[@class=&quot;row justify-center&quot;]/div[@class=&quot;col-md-6 col-10&quot;]/form[1]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--single-line v-text-field--solo v-text-field--is-booted v-text-field--enclosed v-text-field--placeholder primary--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]</value>
+      <webElementGuid>d2e6bafb-fe51-4c58-bed2-3d0aaefe945c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[2]/div/div/form/div[4]/div/div</value>
+      <webElementGuid>85cd528c-afd4-4ba8-917d-a334cfa931dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::div[3]</value>
+      <webElementGuid>76ad7e6f-7dbd-4fa7-9d85-788fd4e1d6fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::div[11]</value>
+      <webElementGuid>7b0ff20b-6ad5-41f1-aef1-e652672cca0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[2]/preceding::div[7]</value>
+      <webElementGuid>31c97bea-d083-45ec-866d-c2a2e2a81d1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div</value>
+      <webElementGuid>a098e557-9be5-464c-83ad-76c3504c7cb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
